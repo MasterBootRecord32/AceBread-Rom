@@ -26,4 +26,7 @@ SOFTWARE.
   - <a href="https://forum.xda-developers.com/m/adamjuva.3427970/"> Juwe11's </a> scripts for <a href="https://forum.xda-developers.com/t/script-the-best-ram-optimization.1111145/"> RAM optimization </a> ;
   - <a href="https://forum.xda-developers.com/m/imbawind.4170211/"> ImbaWind's </a> tweaks for a better Android experience (<a href="https://forum.xda-developers.com/t/cwm-scripts-tweaks-adrenaline-tm-engine-stock-cm-4-5-22-10-2013.1579710/"> Adrenaline Engine </a>).
 
-**--- I'm trying to get Framework-res.apk to work on this release as it crashes the device when flashed.**
+# Encountered bugs :
+**None on the initial release.**
+
+**Note : I'm trying to get Framework-res.apk to work on this release as it crashes the device when flashed.**
