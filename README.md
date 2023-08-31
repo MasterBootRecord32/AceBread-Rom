@@ -15,10 +15,15 @@ SOFTWARE.
 **Note that I will not provide any kind of support to this project.**
 
 # Specifications of the project :
-- Jelly Bean-like UI inspired by the GALAXY S3's Nature UI ;
+- Jelly Bean-like icons inspired by the GALAXY S3's "Nature UX" ;
+- Custom Holo UI inspired by AOSP 4.0 UI ;
 - Optimized stock Samsung apps with refined PNGs ;
+- Deodexed system apps ;
 - Build.prop tweaks for power saving, better RAM management, better performances, better 2G / 3G reception and better sound quality ;
 - Removed bloatwares (Google Apps, Socials, Samsung Store, useless widgets) and apps limited to the bare minimum ;
+- Included Root files and SuperUser v3.0.7 ;
 - Includes :
   - <a href="https://forum.xda-developers.com/m/adamjuva.3427970/"> Juwe11's </a> scripts for <a href="https://forum.xda-developers.com/t/script-the-best-ram-optimization.1111145/"> RAM optimization </a> ;
   - <a href="https://forum.xda-developers.com/m/imbawind.4170211/"> ImbaWind's </a> tweaks for a better Android experience (<a href="https://forum.xda-developers.com/t/cwm-scripts-tweaks-adrenaline-tm-engine-stock-cm-4-5-22-10-2013.1579710/"> Adrenaline Engine </a>).
+
+**--- I'm trying to get Framework-res.apk to work on this release as it crashes the device when flashed.**
