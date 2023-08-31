@@ -30,4 +30,4 @@ SOFTWARE.
 # Encountered bugs :
 **None on the initial release.**
 
-**Note : I will try to get Framework-res.apk to work on the next release as it crashes the device when flashed. Not sure if it is a framework specific bug or if this version of Android does not support the changes.**
+**Note : I will try to get Framework-res.apk to work on the next release as it crashes the device when flashed. Not sure if it is a framework specific bug or if this version of the firmware does not support the changes (BULC1 did not have any problems when I tested it on the pre-release).**
