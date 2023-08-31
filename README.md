@@ -15,6 +15,7 @@ SOFTWARE.
 **Note that I will not provide any kind of support to this project.**
 
 # Specifications of the project :
+- Based on the S5830iDDLA2 firmware version ;
 - Jelly Bean-like icons inspired by the GALAXY S3's "Nature UX" ;
 - Custom Holo UI inspired by AOSP 4.0 UI ;
 - Optimized stock Samsung apps with refined PNGs ;
@@ -29,4 +30,4 @@ SOFTWARE.
 # Encountered bugs :
 **None on the initial release.**
 
-**Note : I'm trying to get Framework-res.apk to work on this release as it crashes the device when flashed.**
+**Note : I will try to get Framework-res.apk to work on the next release as it crashes the device when flashed. Not sure if it is a framework specific bug or if this version of Android does not support the changes.**
