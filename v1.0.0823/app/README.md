@@ -1,1 +1,1 @@
-Apps APKs of the pr-release of AceBread Rom (DDLA2 only).
+Apps APKs of the first release of AceBread Rom (DDLA2 only).
